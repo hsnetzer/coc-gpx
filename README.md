@@ -1,2 +1,2 @@
-# lt-gpx
-gpx for the long trail
+# coc-gpx
+gpx for the C&O canal towpath
