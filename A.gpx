@@ -3,8 +3,8 @@
 <metadata>
 <bounds minlat="38.90402900" minlon="-77.72619950" maxlat="39.32944853" maxlon="-77.05148980"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T13:34:00.925Z</time>
-<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="39.13942046" lon="-77.51557893">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:15:05.224Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="38.91994400" lon="-77.10213967">
 </active_point>
 </extensions>
 </metadata>
@@ -34,7 +34,7 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="38.91998237" lon="-77.10213531">
+<wpt lat="38.91996246" lon="-77.10211117">
 <ele>10.400</ele>
 <time>2016-11-09T18:13:12.256Z</time>
 <name>COCCapitalCrescentTr</name>
@@ -42,7 +42,7 @@
 <sym>Trail Head</sym>
 <type>Trail Head</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T03:46:06.966Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:14:44.662Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>COCCapitalCrescentTr</label_text>
 </label>
@@ -62,7 +62,7 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="38.98323900" lon="-77.23462700">
+<wpt lat="38.98325993" lon="-77.23467260">
 <ele>35.400</ele>
 <time>2016-10-26T21:48:18.631Z</time>
 <name>BillyGoatA1</name>
@@ -72,7 +72,7 @@
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-01-05T02:23:57.963Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:15:05.224Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BillyGoatA1</label_text>
 </label>
@@ -184,7 +184,7 @@
 <ele>36.300</ele>
 <time>2016-10-26T21:48:18.631Z</time>
 <name>GreatFallsOverlook</name>
-<link href="http://en.wikipedia.org/wiki/Great_Falls_%2525252525252525252525252525252525252525252528Potomac_River%2525252525252525252525252525252525252525252529">
+<link href="http://en.wikipedia.org/wiki/Great_Falls_%252525252525252525252525252525252525252525252528Potomac_River%252525252525252525252525252525252525252525252529">
 </link>
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
@@ -239,7 +239,7 @@
 <time>2016-10-26T21:48:18.631Z</time>
 <name>SenecaCrAqueduct</name>
 <desc>East side of first of eleven aqueducts along the towpath. The north arch was destroyed in 1973 by a thunderstorm flash flood. Rileys Lock #24, Rileys Lock Road.</desc>
-<link href="http://en.wikipedia.org/wiki/Seneca_Creek_%2525252525252525252525252525252525252525252528Potomac_River%2525252525252525252525252525252525252525252529">
+<link href="http://en.wikipedia.org/wiki/Seneca_Creek_%252525252525252525252525252525252525252525252528Potomac_River%252525252525252525252525252525252525252525252529">
 </link>
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
