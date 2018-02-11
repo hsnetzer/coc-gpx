@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="38.90402900" minlon="-77.72619950" maxlat="39.32944853" maxlon="-77.05148980"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:15:05.224Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:19:51.309Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="38.91994400" lon="-77.10213967">
 </active_point>
 </extensions>
@@ -184,7 +184,7 @@
 <ele>36.300</ele>
 <time>2016-10-26T21:48:18.631Z</time>
 <name>GreatFallsOverlook</name>
-<link href="http://en.wikipedia.org/wiki/Great_Falls_%252525252525252525252525252525252525252525252528Potomac_River%252525252525252525252525252525252525252525252529">
+<link href="http://en.wikipedia.org/wiki/Great_Falls_%25252525252525252525252525252525252525252525252528Potomac_River%25252525252525252525252525252525252525252525252529">
 </link>
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
@@ -239,7 +239,7 @@
 <time>2016-10-26T21:48:18.631Z</time>
 <name>SenecaCrAqueduct</name>
 <desc>East side of first of eleven aqueducts along the towpath. The north arch was destroyed in 1973 by a thunderstorm flash flood. Rileys Lock #24, Rileys Lock Road.</desc>
-<link href="http://en.wikipedia.org/wiki/Seneca_Creek_%252525252525252525252525252525252525252525252528Potomac_River%252525252525252525252525252525252525252525252529">
+<link href="http://en.wikipedia.org/wiki/Seneca_Creek_%25252525252525252525252525252525252525252525252528Potomac_River%25252525252525252525252525252525252525252525252529">
 </link>
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
@@ -783,7 +783,7 @@
 <desc>good,w</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T03:32:08.588Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:19:51.309Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">00ff00</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>C&amp;O Canal Towpath</label_text>
@@ -3487,7 +3487,7 @@
 <trkpt lat="38.99337100" lon="-77.24532800">
 <ele>40.475</ele>
 </trkpt>
-<trkpt lat="38.99361200" lon="-77.24551200">
+<trkpt lat="38.99352827" lon="-77.24544360">
 <ele>40.197</ele>
 </trkpt>
 <trkpt lat="38.99371600" lon="-77.24559800">
