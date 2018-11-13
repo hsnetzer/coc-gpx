@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.02 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.11 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
 <metadata>
 <bounds minlat="38.90402900" minlon="-77.72619950" maxlat="39.32944853" maxlon="-77.05148980"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:19:51.309Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-10-19T15:23:40.820Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="38.91994400" lon="-77.10213967">
 </active_point>
 </extensions>
@@ -184,7 +184,7 @@
 <ele>36.300</ele>
 <time>2016-10-26T21:48:18.631Z</time>
 <name>GreatFallsOverlook</name>
-<link href="http://en.wikipedia.org/wiki/Great_Falls_%25252525252525252525252525252525252525252525252528Potomac_River%25252525252525252525252525252525252525252525252529">
+<link href="http://en.wikipedia.org/wiki/Great_Falls_%2525252525252525252525252525252525252525252525252528Potomac_River%2525252525252525252525252525252525252525252525252529">
 </link>
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
@@ -239,7 +239,7 @@
 <time>2016-10-26T21:48:18.631Z</time>
 <name>SenecaCrAqueduct</name>
 <desc>East side of first of eleven aqueducts along the towpath. The north arch was destroyed in 1973 by a thunderstorm flash flood. Rileys Lock #24, Rileys Lock Road.</desc>
-<link href="http://en.wikipedia.org/wiki/Seneca_Creek_%25252525252525252525252525252525252525252525252528Potomac_River%25252525252525252525252525252525252525252525252529">
+<link href="http://en.wikipedia.org/wiki/Seneca_Creek_%2525252525252525252525252525252525252525252525252528Potomac_River%2525252525252525252525252525252525252525252525252529">
 </link>
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
@@ -783,7 +783,7 @@
 <desc>good,w</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:19:51.309Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-10-19T15:23:40.820Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">00ff00</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>C&amp;O Canal Towpath</label_text>
@@ -1039,40 +1039,40 @@
 <trkpt lat="38.90545500" lon="-77.07698400">
 <ele>11.564</ele>
 </trkpt>
-<trkpt lat="38.90555700" lon="-77.07734800">
+<trkpt lat="38.90557377" lon="-77.07734800">
 <ele>9.074</ele>
 </trkpt>
-<trkpt lat="38.90559400" lon="-77.07749700">
+<trkpt lat="38.90561077" lon="-77.07749700">
 <ele>9.292</ele>
 </trkpt>
-<trkpt lat="38.90561100" lon="-77.07758400">
+<trkpt lat="38.90562777" lon="-77.07758400">
 <ele>9.515</ele>
 </trkpt>
-<trkpt lat="38.90564900" lon="-77.07779000">
+<trkpt lat="38.90566577" lon="-77.07779000">
 <ele>10.115</ele>
 </trkpt>
-<trkpt lat="38.90566100" lon="-77.07786900">
+<trkpt lat="38.90567777" lon="-77.07786900">
 <ele>10.283</ele>
 </trkpt>
-<trkpt lat="38.90567300" lon="-77.07806500">
+<trkpt lat="38.90568977" lon="-77.07806500">
 <ele>10.619</ele>
 </trkpt>
-<trkpt lat="38.90567500" lon="-77.07828100">
+<trkpt lat="38.90569177" lon="-77.07828100">
 <ele>10.700</ele>
 </trkpt>
-<trkpt lat="38.90566800" lon="-77.07850800">
+<trkpt lat="38.90568477" lon="-77.07850800">
 <ele>10.381</ele>
 </trkpt>
-<trkpt lat="38.90563900" lon="-77.07877400">
+<trkpt lat="38.90565577" lon="-77.07877400">
 <ele>9.926</ele>
 </trkpt>
-<trkpt lat="38.90560000" lon="-77.07898200">
+<trkpt lat="38.90561677" lon="-77.07898200">
 <ele>9.294</ele>
 </trkpt>
-<trkpt lat="38.90554200" lon="-77.07929600">
+<trkpt lat="38.90555877" lon="-77.07929600">
 <ele>9.860</ele>
 </trkpt>
-<trkpt lat="38.90546600" lon="-77.07958600">
+<trkpt lat="38.90548277" lon="-77.07958600">
 <ele>12.097</ele>
 </trkpt>
 <trkpt lat="38.90531100" lon="-77.08012300">
@@ -1153,10 +1153,10 @@
 <trkpt lat="38.90638500" lon="-77.08656400">
 <ele>8.959</ele>
 </trkpt>
-<trkpt lat="38.90642000" lon="-77.08668800">
+<trkpt lat="38.90642000" lon="-77.08675237">
 <ele>8.986</ele>
 </trkpt>
-<trkpt lat="38.90666000" lon="-77.08747000">
+<trkpt lat="38.90651749" lon="-77.08720178">
 <ele>9.225</ele>
 </trkpt>
 <trkpt lat="38.90668400" lon="-77.08755300">
@@ -1168,16 +1168,16 @@
 <trkpt lat="38.90676200" lon="-77.08779800">
 <ele>9.864</ele>
 </trkpt>
-<trkpt lat="38.90679400" lon="-77.08792100">
+<trkpt lat="38.90682753" lon="-77.08814631">
 <ele>10.613</ele>
 </trkpt>
-<trkpt lat="38.90684900" lon="-77.08808200">
+<trkpt lat="38.90688253" lon="-77.08830731">
 <ele>10.610</ele>
 </trkpt>
-<trkpt lat="38.90717500" lon="-77.08916600">
+<trkpt lat="38.90704087" lon="-77.08876903">
 <ele>10.381</ele>
 </trkpt>
-<trkpt lat="38.90721500" lon="-77.08929200">
+<trkpt lat="38.90708087" lon="-77.08889503">
 <ele>9.638</ele>
 </trkpt>
 <trkpt lat="38.90725700" lon="-77.08944100">
