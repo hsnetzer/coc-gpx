@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="39.32416812" minlon="-78.77451729" maxlat="39.69878400" maxlon="-77.72634279"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-18T22:27:42.309Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:45:14.406Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="39.56169190" lon="-77.87214922">
 </active_point>
 </extensions>
@@ -40,8 +40,9 @@
 <time>2016-11-10T16:58:58.180Z</time>
 <name>WMR-E</name>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:45:14.406Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>WMR-E</label_text>
 </label>
@@ -55,8 +56,9 @@
 <link href="http://bikewashington.org/trails/wmrt/wmrt.htm">
 </link>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:45:14.406Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>WMR-W</label_text>
 </label>
@@ -70,9 +72,9 @@
 <link href="http://www.wmsr.com/">
 </link>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T03:32:59.180Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:45:14.406Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>WMarylandScenicRail</label_text>
 </label>

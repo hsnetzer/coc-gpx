@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="38.90402900" minlon="-77.68144682" maxlat="39.32944853" maxlon="-77.05148980"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-18T22:27:25.133Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:44:46.014Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="38.91994400" lon="-77.10213967">
 </active_point>
 </extensions>
@@ -40,9 +40,9 @@
 <name>COCCapitalCrescentTr</name>
 <desc>C &amp; O Towpath junction with the Capital Crescent Trail.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:14:44.662Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:44:46.014Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>COCCapitalCrescentTr</label_text>
 </label>
@@ -144,8 +144,9 @@
 <name>StartOfTowpath</name>
 <desc>Just south of the Pennsylvania Ave and Rock Creek Pkwy intersection. Continue downstream via the Rock Creek Bicycle Trail.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:44:46.014Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>StartOfTowpath</label_text>
 </label>
@@ -184,7 +185,7 @@
 <ele>36.300</ele>
 <time>2016-10-26T21:48:18.631Z</time>
 <name>GreatFallsOverlook</name>
-<link href="http://en.wikipedia.org/wiki/Great_Falls_%25252525252525252525252525252525252525252525252525252528Potomac_River%25252525252525252525252525252525252525252525252525252529">
+<link href="http://en.wikipedia.org/wiki/Great_Falls_%2525252525252525252525252525252525252525252525252525252528Potomac_River%2525252525252525252525252525252525252525252525252525252529">
 </link>
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
@@ -239,7 +240,7 @@
 <time>2016-10-26T21:48:18.631Z</time>
 <name>SenecaCrAqueduct</name>
 <desc>East side of first of eleven aqueducts along the towpath. The north arch was destroyed in 1973 by a thunderstorm flash flood. Rileys Lock #24, Rileys Lock Road.</desc>
-<link href="http://en.wikipedia.org/wiki/Seneca_Creek_%25252525252525252525252525252525252525252525252525252528Potomac_River%25252525252525252525252525252525252525252525252525252529">
+<link href="http://en.wikipedia.org/wiki/Seneca_Creek_%2525252525252525252525252525252525252525252525252525252528Potomac_River%2525252525252525252525252525252525252525252525252525252529">
 </link>
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
