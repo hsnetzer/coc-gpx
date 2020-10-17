@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="39.32419416" minlon="-78.77451729" maxlat="39.69878400" maxlon="-77.72628110"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-02T02:23:35.848Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T22:58:18.063Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="39.56169190" lon="-77.87214922">
 </active_point>
 </extensions>
@@ -942,7 +942,7 @@
 <desc>bad,w</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-02T02:23:12.495Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-02T02:23:12.494Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">00ff00</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>C&amp;O Canal Towpath</label_text>
@@ -42467,10 +42467,10 @@
 </trk>
 <trk>
 <name>COT-HB</name>
-<desc>good,s</desc>
+<desc>good,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T22:43:44.330Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T22:58:18.063Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Hancock Bridge</label_text>
@@ -42483,17 +42483,17 @@
 </line>
 </extensions>
 <trkseg>
-<trkpt lat="39.69824340" lon="-78.17786746">
-<ele>131.721</ele>
-</trkpt>
-<trkpt lat="39.69811701" lon="-78.17789696">
-<ele>131.604</ele>
+<trkpt lat="39.69789531" lon="-78.17793451">
+<ele>130.931</ele>
 </trkpt>
 <trkpt lat="39.69801341" lon="-78.17791305">
 <ele>131.723</ele>
 </trkpt>
-<trkpt lat="39.69789531" lon="-78.17793451">
-<ele>130.931</ele>
+<trkpt lat="39.69811701" lon="-78.17789696">
+<ele>131.604</ele>
+</trkpt>
+<trkpt lat="39.69824340" lon="-78.17786746">
+<ele>131.721</ele>
 </trkpt>
 </trkseg>
 </trk>
