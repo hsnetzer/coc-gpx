@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="38.90402900" minlon="-77.68144682" maxlat="39.32944853" maxlon="-77.05148980"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T02:38:22.757Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-04T03:35:05.133Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="39.08166976" lon="-77.44944178">
 </active_point>
 </extensions>
@@ -190,11 +190,10 @@
 <ele>36.300</ele>
 <time>2016-10-26T21:48:18.631Z</time>
 <name>GreatFallsOverlook</name>
-<link href="http://en.wikipedia.org/wiki/Great_Falls_%25252525252525252525252525252525252525252525252525252525252525252528Potomac_River%25252525252525252525252525252525252525252525252525252525252525252529">
-</link>
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-04T03:34:42.256Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GreatFallsOverlook</label_text>
 </label>
@@ -245,11 +244,10 @@
 <time>2016-10-26T21:48:18.631Z</time>
 <name>SenecaCrAqueduct</name>
 <desc>East side of first of eleven aqueducts along the towpath. The north arch was destroyed in 1973 by a thunderstorm flash flood. Rileys Lock #24, Rileys Lock Road.</desc>
-<link href="http://en.wikipedia.org/wiki/Seneca_Creek_%25252525252525252525252525252525252525252525252525252525252525252528Potomac_River%25252525252525252525252525252525252525252525252525252525252525252529">
-</link>
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-04T03:35:05.133Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SenecaCrAqueduct</label_text>
 </label>
